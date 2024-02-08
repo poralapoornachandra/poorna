@@ -1,0 +1,18 @@
+->git status
+->git init
+(init a new respirtory in local directory)
+->git status
+->git add (git add demo.txt)
+(add file to staging area)
+->git add .
+(add all untracked files and changes to staging area)
+-> git commit -m "new file added"
+-> git config --global user.email "your@gmail.com"
+-> git config --global user.name "your name"
+->git ls-fles
+->git rm --cached filename
+(you want to keep the file in your hard disk but you dont want to track git to this file anyone)
+->git rm filename
+(remove this file from staging area and local directory)
+
+
